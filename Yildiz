@@ -1,0 +1,291 @@
+#EXTM3U
+EXTINF:-1,TR TRT1 UHD
+http://144.76.199.197:8080/live/kutlu/kutlu/32216.ts
+EXTINF:-1,TR TRT1 HD
+http://144.76.199.197:8080/live/kutlu/kutlu/526.ts
+EXTINF:-1,TR TRT1 SD
+http://144.76.199.197:8080/live/kutlu/kutlu/1576.ts
+EXTINF:-1,TR ATV UHD
+http://144.76.199.197:8080/live/kutlu/kutlu/32215.ts
+EXTINF:-1,TR ATV HD
+http://144.76.199.197:8080/live/kutlu/kutlu/1444.ts
+EXTINF:-1,TR ATV SD
+http://144.76.199.197:8080/live/kutlu/kutlu/1585.ts
+EXTINF:-1,TR STARTV UHD
+http://144.76.199.197:8080/live/kutlu/kutlu/32213.ts
+EXTINF:-1,TR STARTV HD
+http://144.76.199.197:8080/live/kutlu/kutlu/660.ts
+EXTINF:-1,TR STARTV SD
+http://144.76.199.197:8080/live/kutlu/kutlu/578.ts
+EXTINF:-1,TR SHOWTV UHD
+http://144.76.199.197:8080/live/kutlu/kutlu/32214.ts
+EXTINF:-1,TR SHOWTV HD
+http://144.76.199.197:8080/live/kutlu/kutlu/525.ts
+EXTINF:-1,TR SHOWTV SD
+http://144.76.199.197:8080/live/kutlu/kutlu/1578.ts
+EXTINF:-1,TR KANALD UHD
+http://144.76.199.197:8080/live/kutlu/kutlu/32212.ts
+EXTINF:-1,TR KANALD HD
+http://144.76.199.197:8080/live/kutlu/kutlu/507.ts
+EXTINF:-1,TR KANALD SD
+http://144.76.199.197:8080/live/kutlu/kutlu/1581.ts
+EXTINF:-1,TR FOX UHD
+http://144.76.199.197:8080/live/kutlu/kutlu/32211.ts
+EXTINF:-1,TR FOX HD
+http://144.76.199.197:8080/live/kutlu/kutlu/665.ts
+EXTINF:-1,TR FOX SD
+http://144.76.199.197:8080/live/kutlu/kutlu/1583.ts
+EXTINF:-1,TR TV8 UHD
+http://144.76.199.197:8080/live/kutlu/kutlu/32210.ts
+EXTINF:-1,TR TV8 HD
+http://144.76.199.197:8080/live/kutlu/kutlu/540.ts
+EXTINF:-1,TR TV8 SD
+http://144.76.199.197:8080/live/kutlu/kutlu/1575.ts
+EXTINF:-1,TR BEYAZTV UHD
+http://144.76.199.197:8080/live/kutlu/kutlu/32217.ts
+EXTINF:-1,TR BEYAZTV HD
+http://144.76.199.197:8080/live/kutlu/kutlu/1500.ts
+EXTINF:-1,TR KANAL7 UHD
+http://144.76.199.197:8080/live/kutlu/kutlu/32209.ts
+EXTINF:-1,TR KANAL7 HD+
+http://144.76.199.197:8080/live/kutlu/kutlu/530.ts
+EXTINF:-1,TR KANAL7 SD
+http://144.76.199.197:8080/live/kutlu/kutlu/1582.ts
+EXTINF:-1,TR TV8.5
+http://144.76.199.197:8080/live/kutlu/kutlu/2574.ts
+EXTINF:-1,TR A2
+http://144.76.199.197:8080/live/kutlu/kutlu/2582.ts
+EXTINF:-1,TR TeVe2
+http://144.76.199.197:8080/live/kutlu/kutlu/2548.ts
+EXTINF:-1,TR EUROD
+http://144.76.199.197:8080/live/kutlu/kutlu/4493.ts
+EXTINF:-1,TR EUROSTAR
+http://144.76.199.197:8080/live/kutlu/kutlu/4494.ts
+EXTINF:-1,TR ATVAVRUPA
+http://144.76.199.197:8080/live/kutlu/kutlu/7762.ts
+EXTINF:-1,TR SHOWTURK
+http://144.76.199.197:8080/live/kutlu/kutlu/4492.ts
+EXTINF:-1,TR TV8 iNT
+http://144.76.199.197:8080/live/kutlu/kutlu/7763.ts
+EXTINF:-1,TR TV 360
+http://144.76.199.197:8080/live/kutlu/kutlu/1446.ts
+EXTINF:-1,TR FLASHTV
+http://144.76.199.197:8080/live/kutlu/kutlu/6810.ts
+EXTINF:-1,TR LIFE+HD
+http://144.76.199.197:8080/live/kutlu/kutlu/9179.ts
+EXTINF:-1,TR TRT TURK
+http://144.76.199.197:8080/live/kutlu/kutlu/932.ts
+EXTINF:-1,TR KANAL7AVRUPA
+http://144.76.199.197:8080/live/kutlu/kutlu/4491.ts
+EXTINF:-1,TR TRT HABER
+http://144.76.199.197:8080/live/kutlu/kutlu/933.ts
+EXTINF:-1,TR CNNTURK HD
+http://144.76.199.197:8080/live/kutlu/kutlu/557.ts
+EXTINF:-1,TR HABER TURK
+http://144.76.199.197:8080/live/kutlu/kutlu/1225.ts
+EXTINF:-1,TR AHABER HD
+http://144.76.199.197:8080/live/kutlu/kutlu/532.ts
+EXTINF:-1,TR ULKETV HD
+http://144.76.199.197:8080/live/kutlu/kutlu/580.ts
+EXTINF:-1,TR TGRT HABER
+http://144.76.199.197:8080/live/kutlu/kutlu/3696.ts
+EXTINF:-1,TR BLOOMBERGHT
+http://144.76.199.197:8080/live/kutlu/kutlu/3688.ts
+EXTINF:-1,TR 24TV HD
+http://144.76.199.197:8080/live/kutlu/kutlu/917.ts
+EXTINF:-1,TR NTV HD
+http://144.76.199.197:8080/live/kutlu/kutlu/663.ts
+EXTINF:-1,TR AKiT TV
+http://144.76.199.197:8080/live/kutlu/kutlu/3692.ts
+EXTINF:-1,TR TVNET HD
+http://144.76.199.197:8080/live/kutlu/kutlu/6814.ts
+EXTINF:-1,TR KANAL B
+http://144.76.199.197:8080/live/kutlu/kutlu/3691.ts
+EXTINF:-1,TR BENGU TURK
+http://144.76.199.197:8080/live/kutlu/kutlu/485.ts
+EXTINF:-1,TR Cem TV
+http://144.76.199.197:8080/live/kutlu/kutlu/3468.ts
+EXTINF:-1,TR HALK TV
+http://144.76.199.197:8080/live/kutlu/kutlu/926.ts
+EXTINF:-1,TR TELE1
+http://144.76.199.197:8080/live/kutlu/kutlu/3187.ts
+EXTINF:-1,TR ULUSALTV
+http://144.76.199.197:8080/live/kutlu/kutlu/1911.ts
+EXTINF:-1,TR HABER AKS TV
+http://144.76.199.197:8080/live/kutlu/kutlu/31245.ts
+EXTINF:-1,TR HILAL TV
+http://144.76.199.197:8080/live/kutlu/kutlu/31244.ts
+EXTINF:-1,TR ANKARA TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30408.ts
+EXTINF:-1,TR YOL TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30406.ts
+EXTINF:-1,TR V!VA TURK
+http://144.76.199.197:8080/live/kutlu/kutlu/30405.ts
+EXTINF:-1,TR BUSiNESS CHANNEL
+http://144.76.199.197:8080/live/kutlu/kutlu/30404.ts
+EXTINF:-1,TR FANATIK TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30403.ts
+EXTINF:-1,TR IZMIR BEN TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30396.ts
+EXTINF:-1,TR KANAL 56
+http://144.76.199.197:8080/live/kutlu/kutlu/30393.ts
+EXTINF:-1,TR KANAL V
+http://144.76.199.197:8080/live/kutlu/kutlu/30392.ts
+EXTINF:-1,TR PLANET TURK
+http://144.76.199.197:8080/live/kutlu/kutlu/30391.ts
+EXTINF:-1,TR MERSIN GUNEY TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30389.ts
+EXTINF:-1,TR VIYANA TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30400.ts
+EXTINF:-1,TR ZONGULDAK KANAL
+http://144.76.199.197:8080/live/kutlu/kutlu/30399.ts
+EXTINF:-1,TR TiViTi TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30412.ts
+EXTINF:-1,TR KARADENIZ TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30411.ts
+EXTINF:-1,TR KAYSERI TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30413.ts
+EXTINF:-1,TR VUSLAT TV
+http://144.76.199.197:8080/live/kutlu/kutlu/25377.ts
+EXTINF:-1,TR DUGUN TV
+http://144.76.199.197:8080/live/kutlu/kutlu/19914.ts
+EXTINF:-1,TR GUNES MALATYA
+http://144.76.199.197:8080/live/kutlu/kutlu/25378.ts
+EXTINF:-1,TR RUMELI TV
+http://144.76.199.197:8080/live/kutlu/kutlu/19915.ts
+EXTINF:-1,TR BRT2 KKTC
+http://144.76.199.197:8080/live/kutlu/kutlu/18788.ts
+EXTINF:-1,TR DIYOLOK TV
+http://144.76.199.197:8080/live/kutlu/kutlu/18786.ts
+EXTINF:-1,TR KADIRGA TV
+http://144.76.199.197:8080/live/kutlu/kutlu/18784.ts
+EXTINF:-1,TR KIBRIS ADA TV
+http://144.76.199.197:8080/live/kutlu/kutlu/18787.ts
+EXTINF:-1,TR CAY TV
+http://144.76.199.197:8080/live/kutlu/kutlu/1449.ts
+EXTINF:-1,TR KON TV
+http://144.76.199.197:8080/live/kutlu/kutlu/1442.ts
+EXTINF:-1,TR AKSU TV
+http://144.76.199.197:8080/live/kutlu/kutlu/19917.ts
+EXTINF:-1,TR DRT DENIZLI
+http://144.76.199.197:8080/live/kutlu/kutlu/7495.ts
+EXTINF:-1,TR PAMUKKALE TV
+http://144.76.199.197:8080/live/kutlu/kutlu/7494.ts
+EXTINF:-1,TR IstanbulWebTV
+http://144.76.199.197:8080/live/kutlu/kutlu/661.ts
+EXTINF:-1,TR UCANKUS
+http://144.76.199.197:8080/live/kutlu/kutlu/9851.ts
+EXTINF:-1,TR VATAN TV
+http://144.76.199.197:8080/live/kutlu/kutlu/9852.ts
+EXTINF:-1,TR DOKTOR HABER TV
+http://144.76.199.197:8080/live/kutlu/kutlu/9853.ts
+EXTINF:-1,TR TRTBELGESEL
+http://144.76.199.197:8080/live/kutlu/kutlu/582.ts
+EXTINF:-1,TR YABANTV HD
+http://144.76.199.197:8080/live/kutlu/kutlu/659.ts
+EXTINF:-1,TR MAKINE TV
+http://144.76.199.197:8080/live/kutlu/kutlu/9855.ts
+EXTINF:-1,TR YAT TV
+http://144.76.199.197:8080/live/kutlu/kutlu/18300.ts
+EXTINF:-1,TR CIFTCI TV
+http://144.76.199.197:8080/live/kutlu/kutlu/18302.ts
+EXTINF:-1,TR TRT MUZIK
+http://144.76.199.197:8080/live/kutlu/kutlu/918.ts
+EXTINF:-1,TR KRALTV HD
+http://144.76.199.197:8080/live/kutlu/kutlu/8608.ts
+EXTINF:-1,TR KRAL POP
+http://144.76.199.197:8080/live/kutlu/kutlu/2036.ts
+EXTINF:-1,TR NR1 ASK
+http://144.76.199.197:8080/live/kutlu/kutlu/11052.ts
+EXTINF:-1,TR NR1 DAMAR
+http://144.76.199.197:8080/live/kutlu/kutlu/11050.ts
+EXTINF:-1,TR NR1 TURK
+http://144.76.199.197:8080/live/kutlu/kutlu/11049.ts
+EXTINF:-1,TR NR1 TV
+http://144.76.199.197:8080/live/kutlu/kutlu/11048.ts
+EXTINF:-1,TR DREAM TURK
+http://144.76.199.197:8080/live/kutlu/kutlu/536.ts
+EXTINF:-1,TR POWER TURK
+http://144.76.199.197:8080/live/kutlu/kutlu/2575.ts
+EXTINF:-1,TR KRAL HOMEMADE
+http://144.76.199.197:8080/live/kutlu/kutlu/11058.ts
+EXTINF:-1,TR KRAL LOVE
+http://144.76.199.197:8080/live/kutlu/kutlu/11056.ts
+EXTINF:-1,TR KRAL NONAME
+http://144.76.199.197:8080/live/kutlu/kutlu/11060.ts
+EXTINF:-1,TR KRAL WORLD
+http://144.76.199.197:8080/live/kutlu/kutlu/11053.ts
+EXTINF:-1,TR KRALPOP AKUSTIK
+http://144.76.199.197:8080/live/kutlu/kutlu/11062.ts
+EXTINF:-1,TR KRALPOP ASK
+http://144.76.199.197:8080/live/kutlu/kutlu/11055.ts
+EXTINF:-1,TR KRALPOP DANS
+http://144.76.199.197:8080/live/kutlu/kutlu/11054.ts
+EXTINF:-1,TR KRALPOP KONSER
+http://144.76.199.197:8080/live/kutlu/kutlu/11061.ts
+EXTINF:-1,TR EKIN TURK
+http://144.76.199.197:8080/live/kutlu/kutlu/3469.ts
+EXTINF:-1,TR KRALPOP PERFORMAN
+http://144.76.199.197:8080/live/kutlu/kutlu/11057.ts
+EXTINF:-1,TR_BABY TV
+http://144.76.199.197:8080/live/kutlu/kutlu/3470.ts
+EXTINF:-1,TR_SMART_COCUK
+http://144.76.199.197:8080/live/kutlu/kutlu/18454.ts
+EXTINF:-1,TR_BOOMERANG HD
+http://144.76.199.197:8080/live/kutlu/kutlu/33308.ts
+EXTINF:-1,TR_CARTON_NETWORK
+http://144.76.199.197:8080/live/kutlu/kutlu/3188.ts
+EXTINF:-1,TR_MINIKA_COCUK
+http://144.76.199.197:8080/live/kutlu/kutlu/1502.ts
+EXTINF:-1,TR_MINIKA_GO
+http://144.76.199.197:8080/live/kutlu/kutlu/476.ts
+EXTINF:-1,TR_TRT_COCUK
+http://144.76.199.197:8080/live/kutlu/kutlu/534.ts
+EXTINF:-1,TR_PLANET_COCUK
+http://144.76.199.197:8080/live/kutlu/kutlu/559.ts
+EXTINF:-1,TR_DISNEY_CHANNEL
+http://144.76.199.197:8080/live/kutlu/kutlu/2100.ts
+EXTINF:-1,TR_NICK_JR
+http://144.76.199.197:8080/live/kutlu/kutlu/2096.ts
+EXTINF:-1,TR_DISNEY_JR
+http://144.76.199.197:8080/live/kutlu/kutlu/583.ts
+EXTINF:-1,TR_NICKELEDOEN
+http://144.76.199.197:8080/live/kutlu/kutlu/9173.ts
+EXTINF:-1,TR: TVR KIDS
+http://144.76.199.197:8080/live/kutlu/kutlu/30835.ts
+EXTINF:-1,TR_SIRINLER_TV
+http://144.76.199.197:8080/live/kutlu/kutlu/8835.ts
+EXTINF:-1,TR : AKILLI TAVSAN MOMO TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30345.ts
+EXTINF:-1,TR : CA
+http://144.76.199.197:8080/live/kutlu/kutlu/30343.ts
+EXTINF:-1,TR : CAN C
+http://144.76.199.197:8080/live/kutlu/kutlu/30342.ts
+EXTINF:-1,TR : CANIM KARDESIM TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30341.ts
+EXTINF:-1,TR: MASA
+http://144.76.199.197:8080/live/kutlu/kutlu/30336.ts
+EXTINF:-1,TR : NILOYA TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30335.ts
+EXTINF:-1,TR : PEPE TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30334.ts
+EXTINF:-1,TR : RGG AYAS TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30333.ts
+EXTINF:-1,TR : SEKER HOCA TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30332.ts
+EXTINF:-1,TR : TOM VE JERRY TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30349.ts
+EXTINF:-1,TR : YUSUFUN DUNYASI TV
+http://144.76.199.197:8080/live/kutlu/kutlu/30348.ts
+EXTINF:-1,TR LALEGUL TV
+http://144.76.199.197:8080/live/kutlu/kutlu/18782.ts
+EXTINF:-1,TR SEMERKAND TV
+http://144.76.199.197:8080/live/kutlu/kutlu/6817.ts
+EXTINF:-1,TR KABE CANLI
+http://144.76.199.197:8080/live/kutlu/kutlu/7496.ts
+EXTINF:-1,TR DOST TV
+http://144.76.199.197:8080/live/kutlu/kutlu/12601.ts
+EXTINF:-1,TR: MAVI KARADENIZ TV
+http://144.76.199.197:8080/live/kutlu/kutlu/9275.ts
+EXTINF:-1,TR MELTEM TV
+http://144.76.199.197:8080/live/kutlu/kutlu/9178.ts
